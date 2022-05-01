@@ -8,7 +8,7 @@
         <ul>
             <li><a class="active" href="#home">Strona główna</a></li>
             <li class="right"><a href="#contact">Zaloguj się</a></li>
-            <!-- siemano kocury !-->
+            <!-- siemano kocury   !-->
         </ul>
     </nav>
 </body>
